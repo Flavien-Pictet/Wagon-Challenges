@@ -70,3 +70,99 @@
 [submodule "data-logit"]
 	path = data-logit
 	url = https://github.com/Flavien-Pictet/data-logit.git
+[submodule "data-orders-regression"]
+	path = data-orders-regression
+	url = https://github.com/Flavien-Pictet/data-orders-regression.git
+[submodule "data-context-and-setup"]
+	path = data-context-and-setup
+	url = https://github.com/Flavien-Pictet/data-context-and-setup.git
+[submodule "data-orders"]
+	path = data-orders
+	url = https://github.com/Flavien-Pictet/data-orders.git
+[submodule "data-data-preparation"]
+	path = data-data-preparation
+	url = https://github.com/Flavien-Pictet/data-data-preparation.git
+[submodule "data-central-limit-theorem"]
+	path = data-central-limit-theorem
+	url = https://github.com/Flavien-Pictet/data-central-limit-theorem.git
+[submodule "data-random-variables"]
+	path = data-random-variables
+	url = https://github.com/Flavien-Pictet/data-random-variables.git
+[submodule "data-law-of-large-numbers"]
+	path = data-law-of-large-numbers
+	url = https://github.com/Flavien-Pictet/data-law-of-large-numbers.git
+[submodule "data-real-estate-advanced-estimator"]
+	path = data-real-estate-advanced-estimator
+	url = https://github.com/Flavien-Pictet/data-real-estate-advanced-estimator.git
+[submodule "data-real-estate-estimator"]
+	path = data-real-estate-estimator
+	url = https://github.com/Flavien-Pictet/data-real-estate-estimator.git
+[submodule "data-seaborn-basics"]
+	path = data-seaborn-basics
+	url = https://github.com/Flavien-Pictet/data-seaborn-basics.git
+[submodule "data-matplotlib-basics"]
+	path = data-matplotlib-basics
+	url = https://github.com/Flavien-Pictet/data-matplotlib-basics.git
+[submodule "data-subplotting"]
+	path = data-subplotting
+	url = https://github.com/Flavien-Pictet/data-subplotting.git
+[submodule "data-matplotlib-intro"]
+	path = data-matplotlib-intro
+	url = https://github.com/Flavien-Pictet/data-matplotlib-intro.git
+[submodule "data-book_scraping"]
+	path = data-book_scraping
+	url = https://github.com/Flavien-Pictet/data-book_scraping.git
+[submodule "data-stock-market-api"]
+	path = data-stock-market-api
+	url = https://github.com/Flavien-Pictet/data-stock-market-api.git
+[submodule "data-opengraph_api"]
+	path = data-opengraph_api
+	url = https://github.com/Flavien-Pictet/data-opengraph_api.git
+[submodule "data-us-oil-and-gas-production"]
+	path = data-us-oil-and-gas-production
+	url = https://github.com/Flavien-Pictet/data-us-oil-and-gas-production.git
+[submodule "data-numpy"]
+	path = data-numpy
+	url = https://github.com/Flavien-Pictet/data-numpy.git
+[submodule "data-notebook"]
+	path = data-notebook
+	url = https://github.com/Flavien-Pictet/data-notebook.git
+[submodule "data-join-the-tables"]
+	path = data-join-the-tables
+	url = https://github.com/Flavien-Pictet/data-join-the-tables.git
+[submodule "data-query-the-db"]
+	path = data-query-the-db
+	url = https://github.com/Flavien-Pictet/data-query-the-db.git
+[submodule "data-back_to_school_query"]
+	path = data-back_to_school_query
+	url = https://github.com/Flavien-Pictet/data-back_to_school_query.git
+[submodule "data-interacting-with-db"]
+	path = data-interacting-with-db
+	url = https://github.com/Flavien-Pictet/data-interacting-with-db.git
+[submodule "data-db-design"]
+	path = data-db-design
+	url = https://github.com/Flavien-Pictet/data-db-design.git
+[submodule "data-table-design"]
+	path = data-table-design
+	url = https://github.com/Flavien-Pictet/data-table-design.git
+[submodule "data-csv"]
+	path = data-csv
+	url = https://github.com/Flavien-Pictet/data-csv.git
+[submodule "data-oop-shapes"]
+	path = data-oop-shapes
+	url = https://github.com/Flavien-Pictet/data-oop-shapes.git
+[submodule "data-system-parameters"]
+	path = data-system-parameters
+	url = https://github.com/Flavien-Pictet/data-system-parameters.git
+[submodule "data-debugging"]
+	path = data-debugging
+	url = https://github.com/Flavien-Pictet/data-debugging.git
+[submodule "data-data-structures"]
+	path = data-data-structures
+	url = https://github.com/Flavien-Pictet/data-data-structures.git
+[submodule "data-string-manipulation"]
+	path = data-string-manipulation
+	url = https://github.com/Flavien-Pictet/data-string-manipulation.git
+[submodule "data-sum-of-three"]
+	path = data-sum-of-three
+	url = https://github.com/Flavien-Pictet/data-sum-of-three.git
