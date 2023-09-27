@@ -4,3 +4,6 @@
 [submodule "data-model-lifecycle"]
 	path = data-model-lifecycle
 	url = https://github.com/Flavien-Pictet/data-model-lifecycle.git
+[submodule "data-train-in-the-cloud"]
+	path = data-train-in-the-cloud
+	url = https://github.com/Flavien-Pictet/data-train-in-the-cloud.git
