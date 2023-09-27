@@ -7,3 +7,66 @@
 [submodule "data-train-in-the-cloud"]
 	path = data-train-in-the-cloud
 	url = https://github.com/Flavien-Pictet/data-train-in-the-cloud.git
+[submodule "data-train-at-scale"]
+	path = data-train-at-scale
+	url = https://github.com/Flavien-Pictet/data-train-at-scale.git
+[submodule "data-your-first-rnn"]
+	path = data-your-first-rnn
+	url = https://github.com/Flavien-Pictet/data-your-first-rnn.git
+[submodule "data-mnist-classification"]
+	path = data-mnist-classification
+	url = https://github.com/Flavien-Pictet/data-mnist-classification.git
+[submodule "data-how-to-properly-prevent-overfitting"]
+	path = data-how-to-properly-prevent-overfitting
+	url = https://github.com/Flavien-Pictet/data-how-to-properly-prevent-overfitting.git
+[submodule "data-your-first-neural-network"]
+	path = data-your-first-neural-network
+	url = https://github.com/Flavien-Pictet/data-your-first-neural-network.git
+[submodule "data-playground"]
+	path = data-playground
+	url = https://github.com/Flavien-Pictet/data-playground.git
+[submodule "data-ham-or-spam"]
+	path = data-ham-or-spam
+	url = https://github.com/Flavien-Pictet/data-ham-or-spam.git
+[submodule "data-movie-reviews"]
+	path = data-movie-reviews
+	url = https://github.com/Flavien-Pictet/data-movie-reviews.git
+[submodule "data-artificial-time-series"]
+	path = data-artificial-time-series
+	url = https://github.com/Flavien-Pictet/data-artificial-time-series.git
+[submodule "data-face-recognition"]
+	path = data-face-recognition
+	url = https://github.com/Flavien-Pictet/data-face-recognition.git
+[submodule "data-image-compression"]
+	path = data-image-compression
+	url = https://github.com/Flavien-Pictet/data-image-compression.git
+[submodule "data-houses-kaggle-competition"]
+	path = data-houses-kaggle-competition
+	url = https://github.com/Flavien-Pictet/data-houses-kaggle-competition.git
+[submodule "data-custom-transformer"]
+	path = data-custom-transformer
+	url = https://github.com/Flavien-Pictet/data-custom-transformer.git
+[submodule "data-preprocessor-tuning"]
+	path = data-preprocessor-tuning
+	url = https://github.com/Flavien-Pictet/data-preprocessor-tuning.git
+[submodule "data-loss-functions"]
+	path = data-loss-functions
+	url = https://github.com/Flavien-Pictet/data-loss-functions.git
+[submodule "data-electrocardiograms"]
+	path = data-electrocardiograms
+	url = https://github.com/Flavien-Pictet/data-electrocardiograms.git
+[submodule "data-knn"]
+	path = data-knn
+	url = https://github.com/Flavien-Pictet/data-knn.git
+[submodule "data-preprocessing-workflow"]
+	path = data-preprocessing-workflow
+	url = https://github.com/Flavien-Pictet/data-preprocessing-workflow.git
+[submodule "data-learning-curves"]
+	path = data-learning-curves
+	url = https://github.com/Flavien-Pictet/data-learning-curves.git
+[submodule "data-linear-regression"]
+	path = data-linear-regression
+	url = https://github.com/Flavien-Pictet/data-linear-regression.git
+[submodule "data-logit"]
+	path = data-logit
+	url = https://github.com/Flavien-Pictet/data-logit.git
