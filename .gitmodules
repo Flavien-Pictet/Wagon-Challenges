@@ -1,0 +1,3 @@
+[submodule "taxifare-website"]
+	path = taxifare-website
+	url = https://github.com/Flavien-Pictet/taxifare-website.git
