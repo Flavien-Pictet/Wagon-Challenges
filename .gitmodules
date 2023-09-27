@@ -1,3 +1,6 @@
 [submodule "taxifare-website"]
 	path = taxifare-website
 	url = https://github.com/Flavien-Pictet/taxifare-website.git
+[submodule "data-model-lifecycle"]
+	path = data-model-lifecycle
+	url = https://github.com/Flavien-Pictet/data-model-lifecycle.git
